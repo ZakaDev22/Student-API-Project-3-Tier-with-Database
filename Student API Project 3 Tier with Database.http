@@ -1,0 +1,6 @@
+@Student_API_Project_3_Tier_with_Database_HostAddress = http://localhost:5236
+
+GET {{Student_API_Project_3_Tier_with_Database_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
